@@ -1,0 +1,13 @@
+br\com\literalura\repository\AutorRepository.class
+br\com\literalura\service\LivroService.class
+br\com\literalura\util\GutendexClient.class
+br\com\literalura\service\AutorService.class
+br\com\literalura\service\LivroService$LivroNaoEncontradoException.class
+br\com\literalura\dto\LivroDTO.class
+br\com\literalura\service\LivroService$ApiResponseException.class
+br\com\literalura\model\Livro.class
+br\com\literalura\repository\LivroRepository.class
+br\com\literalura\util\LiterAluraApp.class
+br\com\literalura\LiterAluraApplication.class
+br\com\literalura\model\Autor.class
+br\com\literalura\controller\LivroController.class
